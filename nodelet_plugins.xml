@@ -1,0 +1,3 @@
+<library path="lib/libparticle_filter_localization_nodelet">
+  <class name="particle_filter/ParticleFilterLocalizationNodelet" type="particle_filter::ParticleFilterLocalizationNodelet" base_class_type="nodelet::Nodelet" />
+</library>
